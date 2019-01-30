@@ -1,3 +1,4 @@
+# To run the code remove the # from the beginning of each line
 # Length of strings
 # Print out the length of this DNA sequence ATTTCGTAACGTTAGGGCATAATCCCGAA
 
@@ -9,7 +10,7 @@ def length(sequence):
 	print(len(sequence))
 	return
 
-#length(seq) #used to call the length function
+length(seq) #used to call the length function
 
 # Counting
 # Print out the number of A's, G's, C's and T's in the DNA sequence ATTTCGTAACGTTAGGGCATAATCCCGAA
